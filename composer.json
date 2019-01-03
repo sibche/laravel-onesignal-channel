@@ -1,5 +1,5 @@
 {
-    "name": "laravel-notification-channels/onesignal",
+    "name": "roboticsexpert/laravel-onesignal-channel",
     "description": "OneSignal Notifications driver",
     "homepage": "https://github.com/laravel-notification-channels/onesignal",
     "license": "MIT",
@@ -26,7 +26,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "berkayk/onesignal-laravel": "^0.9.3",
+        "roboticsexpert/onesignal-laravel": "^0.9.3",
         "illuminate/notifications": "5.*",
         "illuminate/support": "5.*"
     },
