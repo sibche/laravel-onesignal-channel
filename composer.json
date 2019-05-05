@@ -1,5 +1,5 @@
 {
-    "name": "roboticsexpert/laravel-onesignal-channel",
+    "name": "sibche/laravel-onesignal-channel",
     "description": "OneSignal Notifications driver",
     "homepage": "https://github.com/sibche/laravel-onesignal-channel",
     "license": "MIT",
