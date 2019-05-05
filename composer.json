@@ -1,7 +1,7 @@
 {
     "name": "roboticsexpert/laravel-onesignal-channel",
     "description": "OneSignal Notifications driver",
-    "homepage": "https://github.com/laravel-notification-channels/onesignal",
+    "homepage": "https://github.com/sibche/laravel-onesignal-channel",
     "license": "MIT",
     "authors": [{
             "name": "Marcel Pociot",
@@ -26,7 +26,7 @@
     ],
     "require": {
         "php": ">=7.0.0",
-        "roboticsexpert/onesignal-laravel": "^1.0.2",
+        "sibche/onesignal-laravel": "^1.0.2",
         "illuminate/notifications": "5.*",
         "illuminate/support": "5.*"
     },
